@@ -9,3 +9,7 @@ $ chmod +x check.sh
 
 # Execute the script :
 $ ./check.sh
+
+# check the information from our shell  :
+
+( we can also check the : /proc/self/cgroup )
